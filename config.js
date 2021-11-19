@@ -1,7 +1,7 @@
 const fs = require("fs")
 userbot = {
 Prem: JSON.parse(fs.readFileSync('./db/premium.json')),
- owner: [ "6281261324817", "62895-6229-34562" ],
+ owner: [ "62881027203521" ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
    mess: {
    wait: "tunggu sedang di proses...",
@@ -35,7 +35,7 @@ Prem: JSON.parse(fs.readFileSync('./db/premium.json')),
    waits: "Sedang di proses",
    butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU',
    packname: "RIXLE-BOT-V3",
-   author: 'Arifi Razzaq',
+   author: 'bot roja',
     setting: {
     admin: "only admin",
     group: "only group",
